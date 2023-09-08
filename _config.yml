@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "SangHwa Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "실패해도 박수받는 지금 제일 열심히 도전하기 :)"
+  bio              : "실패해도 박수받는 지금 도전하기 :)"
   location         : "Seoul, Republic of Korea🇰🇷"
-  email            :
+  email            : "kimsh9026@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "kimsh9026@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/prodSH/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/sanghwa_97/"
 
 # Site Footer
 footer:
