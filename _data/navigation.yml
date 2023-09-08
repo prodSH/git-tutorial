@@ -10,11 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-sidebar-category:
-  - title : "💻 Study"
-    children :
-      - title : "🧑🏻‍💻 Problem Solving"
-        url : "/problem_solving"
-      - title : "👨‍🏫 CS study"
-        url : "/cs_study"
