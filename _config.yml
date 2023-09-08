@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "ProdSH's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ProdSH's Blog"
+name                     : "SangHwa's diary"
 description              : "학업도, 생각도 기록하는 블로그입니다 :)"
 url                      : "https://prodSH.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
