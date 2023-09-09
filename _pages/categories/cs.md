@@ -1,7 +1,7 @@
 ---
 title : "👨‍🏫 CS study"
 layout : archive
-permalink : "/cs_study"
+permalink : "categories/cs_study"
 author_profile : true
 sidebar_main : true
 ---
